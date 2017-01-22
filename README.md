@@ -1,5 +1,3 @@
-# Pajalic family cookbook 
+# Mains 
 
-### published January 2017 
-#### Happy cooking and eating
-
+Mains are the business
