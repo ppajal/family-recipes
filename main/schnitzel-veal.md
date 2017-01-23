@@ -2,7 +2,7 @@
 
 Why buy pre crumbed when you can prepare yourself for a fraction of the cost and a lot more yum.
 
-![Schnitzel](images/schnitzel-veal.jpg)
+![Schnitzel](images/schnitzel.jpg)
 
 ## Ingredients
 

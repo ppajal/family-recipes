@@ -29,7 +29,7 @@
   * [Sarma](main/sarma.md)
   * [Sausage Rolls](main/sausage-rolls.md)
   * [Satay Chicken sticks](main/satay-chicken-sticks.md)
-  * [Schnitzel](main/schnitzel.md)
+  * [Schnitzel](main/schnitzel-veal.md)
   * [Stir fry](main/stir-fry.md)
   * [Spaghetti Bolognese ](main/spaghetti-bolognese.md)
   * [Spring Rolls Vietnamese](main/spring-rolls.md)
