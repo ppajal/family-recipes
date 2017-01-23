@@ -8,6 +8,7 @@
   * [Greek Salad](soups_salads_sides/greek-salad.md) 
   * [Pickles](soups_salads_sides/pickles.md) 
   * [Pumpkin Soup](soups_salads_sides/pumpkin-soup.md) 
+  * [Thai Beef Salad](soups_salads_sides/thai-beef-salad.md) 
 * [Mains](main/README.md)
   * [Butter Chicken](main/butter-chicken.md)
   * [Calamari](main/calamari.md)
