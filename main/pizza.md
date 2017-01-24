@@ -4,11 +4,11 @@ Pizza base is made in our bread maker. This is our Sunday night favorite.
 ![Home Mad Pizza](images/pizza.jpg)
 
 ## Ingredients
-200 ml water
-1 teaspoon salt
-1 ¾ teaspoon tandaco yeast
-1 tbsp. olive oil
-2 ½ cups bread flour
+- 200 ml water
+- 1 teaspoon salt
+- 1 ¾ teaspoon tandaco yeast
+- 1 tbsp. olive oil
+- 2 ½ cups bread flour
 
 ## Cooking instruction
 1. Add pizza dough ingredients and set to pizza dough setting.  Our bread maker kneads it and gives you pizza dough in 50 minutes.

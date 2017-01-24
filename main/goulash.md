@@ -2,16 +2,16 @@
 ![Goulash](images/goulash.jpg)
 
 ## Ingredients
-500g diced veal
-1 onion
-¼ red capsicum
-1 bay leaf
-Italian cooking sauce (Bertolli) 
-2 potatoes
-1 garlic
-tomato paste
-Hungarian sweet paprika
-Italian herbs
+- 500g diced veal
+- 1 onion
+- ¼ red capsicum
+- 1 bay leaf
+- Italian cooking sauce (Bertolli) 
+- 2 potatoes
+- 1 garlic
+- tomato paste
+- Hungarian sweet paprika
+- Italian herbs
 
 ## Cooking instruction
 1. Finely chop onion, garlic, red capsicum and sauté with oil in a large saucepan.

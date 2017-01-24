@@ -4,13 +4,13 @@ These are great to take to a friends place. They won't last long.
 ![Spring Rolls](images/spring-rolls.jpg)
 
 ## Ingredients
-Spring Roll pastry (with eggs)
-2 eggs (1 in mixture, 1 for glue)
-500g pork mince
-Oil for deep frying
-2 large carrots (grated)
-½ onion
-1 packet vermicelli
+- Spring Roll pastry (with eggs)
+- 2 eggs (1 in mixture, 1 for glue)
+- 500g pork mince
+- Oil for deep frying
+- 2 large carrots (grated)
+- ½ onion
+- 1 packet vermicelli
 
 ## Cooking instruction
 1. Rinse vermicelli in hot water for a few minutes. Let it dry off. Chopped vermicelli very fine.

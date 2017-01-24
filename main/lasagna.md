@@ -2,15 +2,15 @@
 ![Lasagna](images/lasagne.jpg)
 
 ## Ingredients
-spaghetti Bolognese sauce
-plain flour
-tomatoes
-parmesan cheese
-nutmeg
-milk
-cheese
-lasagna pasta
-butter
+- spaghetti Bolognese sauce
+- plain flour
+- tomatoes
+- parmesan cheese
+- nutmeg
+- milk
+- cheese
+- lasagna pasta
+- butter
 
 ## Cooking instruction
 1. Use left over Bolognese sauce from previous recipe.

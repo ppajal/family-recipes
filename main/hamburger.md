@@ -2,14 +2,14 @@
 ![Hamburger](images/hamburger.jpg)
 
 ## Ingredients
-500g beef mince
-1 red onion
-1 tbsp. ground coriander
-1 heaped tsp Dijon mustard
-1 egg
-1 hand full breadcrumbs
-1 pinch ground cumin seeds
-Salt & pepper
+- 500g beef mince
+- 1 red onion
+- 1 tbsp. ground coriander
+- 1 heaped tsp Dijon mustard
+- 1 egg
+- 1 hand full breadcrumbs
+- 1 pinch ground cumin seeds
+- Salt & pepper
 
 ## Cooking instruction
 1. Preheat oven to 230 degrees.

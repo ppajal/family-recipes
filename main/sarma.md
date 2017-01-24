@@ -2,15 +2,15 @@
 ![Sarma](images/sarma.jpg)
 
 ## Ingredients
-500g pork &500g veal mince
-1 onion, 1 onion
-1 egg
-1 jar Sarma Cabbage (Marco Polo brand)
-plain flour
-1 bacon slice
-4 handfuls of rice
-Tomato paste
-Salt, pepper, paprika
+- 500g pork &500g veal mince
+- 1 onion, 1 onion
+- 1 egg
+- 1 jar Sarma Cabbage (Marco Polo brand)
+- plain flour
+- 1 bacon slice
+- 4 handfuls of rice
+- Tomato paste
+- Salt, pepper, paprika
 
 ## Cooking instruction
 1. Mix mince, ½ onion, garlic, chopped parsley, diced bacon, egg, salt, pepper, paprika in a bowl.

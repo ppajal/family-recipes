@@ -37,7 +37,6 @@
   * [Varivo (stew)](main/varivo.md)
   * [Zucchini Slice](main/zucchini-slice.md)
 * [Desserts](desserts/README.md)
-  * [Almond Slice](desserts/almond-slice.md)
   * [Apple Strudel](desserts/apple-strudel.md)
   * [Blueberry Muffins](desserts/blueberry-muffins.md)
   * [Cheescake](desserts/cheesecake.md)
