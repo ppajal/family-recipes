@@ -1,6 +1,6 @@
 # Chicken Soup
 
-This is a winter favorite for the whole family.  The chicken stock can also be used for other dishes.
+This is a winter favorite for the whole family.  The left over chicken stock can also be used for other dishes.
 
 ![Chicken Soup](images/chicken-soup.jpg)
 

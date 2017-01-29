@@ -3,29 +3,34 @@ This recipe was from a TV cooking show. Everyone loves a lamb rogan josh (unless
 ![Lamb Rogan Josh](images/lamb-rogan-josh.jpg)
 
 ## Ingredients
-- 1.2kg Shoulder lamb 
-- 3 red onions
-- 5 cloves garlic
-- 3 table spoons ghee
+- 1kg Shoulder lamb 
+- 2 red onions
+- 4 cloves garlic
+- 5 tbsp. spoons ghee or oil
 - 2 bay leaves
-- 1 tbsp. fennel seeds
+- 2 tbsp. fennel seeds
 - 2 tbsp. spoon tomato paste
 - 1 tbsp. Ginger sliced
 - 1 tbsp. turmeric
 - 8 cloves (whole)
-- 1/2 hot chilly, 1 large chilly
+- 1 cup dried whole chilly (friom indian grocer)
+- 1 fresh chilly
 - 1 cinnamon stick
 - 6 green cardamom pods 
-- 1 tbsp. coriander
+- 3 tbsp. coriander
 - 1 tbsp. chilly powder
-- 6 tomatoes diced
+- 3 tomatoes diced
 - Salt
 
 ## Cooking instruction
-1. Add 3 sliced red onions, 5 cloves garlic,3 tbsp. ghee into a large pot on med heat for 5 mins.
-1. Add 8 whole cloves, chopped chillies, 2 bay leaves, 6 green cardamom pods (slice each pod in half), 1 broken up cinnamon stick .
-1. Add 6 diced tomatoes, and 2 table spoons tomato paste.  
-1. Add 1.2 kg diced lamb (dice large) into pot with 2 pinches of salt.
-1. Add sliced ginger, turmeric, coriander, chilli powder and coat.
-1. Add 500 ml water.  
-1. Bring curry back to simmer, cover with lid and cook for 60 mins to allow the magic to happen.
+1. Soak big handful of dried whole chillies in hot water for 15 mins.  Blend to make a chiili paste. This will provide color and flavour to the dish.
+1. Heat ghee or oil if you don't have ghee into a large pot.
+1. Add bay leaves, fennel seeds, green cardomon pods (slice each pod in half), cloves, 1 fresh chilli and 1 broken up cinnamon stick.  
+1. Add 2 sliced red onions and brown for a few minutes
+1. while onions are browning get powdered spices ready (tumeric, chilli powder, coriander powder)
+1. Once onions have browned add ginger paste, fresh ginger and garlic and stir in.
+1. Add powdered spices and 3/4 cup of chilli paste and 1/2 cup water and stir in.
+1. Add tomatoes and tomato paste and god pinch of salt.
+1. Add 1kg diced lamb (dice large) into pot and stir the meat for a couple of minutes to seal.
+1. Add 1/2 cup of water and stir in.  
+1. Bring curry back to simmer, cover with lid and cook for 30 mins to allow the magic to happen.
