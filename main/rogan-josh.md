@@ -13,7 +13,7 @@ This recipe was from a TV cooking show. Everyone loves a lamb rogan josh (unless
 - 1 tbsp. Ginger sliced
 - 1 tbsp. turmeric
 - 8 cloves (whole)
-- 1 cup dried whole chilly (friom indian grocer)
+- 1 cup dried whole chilly (from indian grocer)
 - 1 fresh chilly
 - 1 cinnamon stick
 - 6 green cardamom pods 
