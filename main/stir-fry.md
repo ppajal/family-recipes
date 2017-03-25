@@ -2,7 +2,7 @@
 ![Stir Fry](images/stirfry.jpg)
 
 ## Ingredients
-- Singapore Noodles
+- Fresh egg noodles (thin noodles from asian grocer)
 - spinach
 - Shallots
 - Red capsicum
@@ -15,7 +15,10 @@
 - Seasonal vegetables
 
 ## Cooking instruction
-Noodles tip to avoid getting mushy. Add noodles to strainer and rinse under hot water for a minute. Set aside and add at the end.
+For the perfrct egg noodles.
+Microwave the noodles for a few minutes.
+Dip noodles in hot water for a few seconds and then allow to dry.
+Set aside and add at the end.
 Have wok, you know the rest…
 
 
