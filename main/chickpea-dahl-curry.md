@@ -1,4 +1,5 @@
-#Dahl
+#Chickpea and Dahl Curry
+This is so easy, so healthy and so yummy.
 ![Lentils](images/chicpea-dahl-curry.jpg)
 
 ##Ingredients 
