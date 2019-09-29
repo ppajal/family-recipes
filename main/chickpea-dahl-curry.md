@@ -1,5 +1,5 @@
 #Dahl
-![Lentils](images/butter-chicken.jpg)
+![Lentils](images/chicpea-dahl-curry.jpg)
 
 ##Ingredients 
 - 1 can chickpeas
