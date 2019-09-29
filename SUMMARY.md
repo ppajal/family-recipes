@@ -25,6 +25,7 @@
   * [Home Made Pasta](main/pasta.md)
   * [Lasagna ](main/lasagna.md)
   * [Naan Bread](main/naan-bread.md)
+  * [Nasi Goreng](main/nasi-goreng.md)
   * [Risotto](main/risotto.md)
   * [Rogan Josh (Lamb)](main/rogan-josh.md)
   * [Sarma](main/sarma.md)
