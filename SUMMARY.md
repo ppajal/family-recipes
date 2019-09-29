@@ -13,6 +13,7 @@
   * [Butter Chicken](main/butter-chicken.md)
   * [Calamari](main/calamari.md)
   * [Cevapcici](main/cevapcici.md)
+  * [Chicpea Dahl Curry](main/dahl-lentil-curry.md)
   * [Curried Sausages](main/curried-sausages.md)
   * [Dahl](main/dahl.md)
   * [Fettuccine Carbonara  ](main/carbonara.md)
