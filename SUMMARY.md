@@ -17,6 +17,7 @@
   * [Curried Sausages](main/curried-sausages.md)
   * [Dahl](main/dahl.md)
   * [Fettuccine Carbonara  ](main/carbonara.md)
+  * [Fish Curry (Cambodian)](main/fish-curry-cambodian.md)
   * [Fried Rice](main/fried-rice.md)
   * [Gnocchi](main/gnocchi.md)
   * [Goulash](main/goulash.md)
