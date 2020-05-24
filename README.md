@@ -1,9 +1,10 @@
-# Pajalic family cookbook 
+# Introduction
 
 We hope you enjoy our family recipes. Yes the photos really are our home cooked dishes.
 
-![cover](cover.jpg)
+![cover](.gitbook/assets/cover.jpg)
 
-### published January 2017 
-#### Happy cooking and eating
+## published January 2017
+
+### Happy cooking and eating
 

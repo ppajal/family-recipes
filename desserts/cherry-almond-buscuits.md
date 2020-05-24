@@ -2,17 +2,18 @@
 
 These are Nannas really yummy cherry and almond biscuits. Great at Xmas time.
 
-![Almond-Slice](images/almond-slice.jpg)
+![Almond-Slice](../.gitbook/assets/almond-slice.jpg)
 
 ## Ingredients
 
-- 3 egg whites                       
-- 1/3 cup caster sugar
-- 125g almonds                       
-- 125g glazed cherries                
-- 2/3 cup plain flour                
+* 3 egg whites                       
+* 1/3 cup caster sugar
+* 125g almonds                       
+* 125g glazed cherries                
+* 2/3 cup plain flour                
 
 ## Cooking instruction
+
 1. Beat 3 egg whites until stiff.
 2. Gradually add 1/3 cup caster sugar while beating.
 3. Gently stir in 2/3 cup plain flour.
@@ -22,3 +23,4 @@ These are Nannas really yummy cherry and almond biscuits. Great at Xmas time.
 7. Then wrap in foil and place in refrigerator for 24 hrs.
 8. Slice thinly with a sharp knife.
 9. Spread on flat tin and bake in a low oven for 30-45 minutes so not to let them brown too much.
+
