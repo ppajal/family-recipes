@@ -15,7 +15,7 @@ These are Baka's really yummy apple strudel.
 * butter
 * cinnamon
 * Oil
-* Sugar \(white\)
+* Sugar \(brown\)
 * Vanilla sugar
 
 ## Cooking instruction
@@ -25,9 +25,9 @@ These are Baka's really yummy apple strudel.
 3. Place 2 sheets of filo on tea towel and brush with oil.
 4. Keep adding 2 sheets, brush with oil.
 5. Repeat until you have around 8 sheets.
-6. Add spinach leaves, feta, ricotta to the pastry. \(sour cream and 1 beaten egg are optional\)
+6. Add grated apples, breadcrumbs, cinnamon, sultanas, sugar to the pastry. 
 7. Roll the filo pastry up \(use tea towel to assist\). Keep brushing with ½ oil & ½ melted butter mixture as you roll each part.
 8. Rub oil on base of tray and sprinkle bread crumbs on base.
-9. Place filo in tray and place in oven \(increase to 200 degrees\). Bake for 1 hour.
-10. Turn tray after 30 minutes \(and brush a bit more melted butter on top\)
+9. Place filo in tray and place in oven \(increase to 200 degrees\). Bake for 40 mins.
+10. Turn tray after 20 minutes \(and brush a bit more melted butter on top\)
 
