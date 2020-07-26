@@ -33,6 +33,7 @@
   * [Sausage Rolls](main/sausage-rolls.md)
   * [Satay Chicken sticks](main/satay-chicken-sticks.md)
   * [Schnitzel](main/schnitzel.md)
+  * [Skewers and Dips](main/skewers-and-dips.md)
   * [Stir fry](main/stir-fry.md)
   * [Spaghetti Bolognese](main/spaghetti-bolognese.md)
   * [Spring Rolls Vietnamese](main/spring-rolls.md)
