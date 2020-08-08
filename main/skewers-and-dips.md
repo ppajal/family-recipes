@@ -15,7 +15,7 @@ This banquet style is easy and great to feed the masses. Inspired by Ben's culin
 ## Dip Roasted Carrot Ingredients \(, Roast Carrot, Hummus\)
 
 * 6 carrots
-* 1/4 cup tahini 
+* 1 teaspoon tahini 
 * 1 lemon \(juice\)
 * 3 cloves garlic
 * 1 teaspoon ground cumin
