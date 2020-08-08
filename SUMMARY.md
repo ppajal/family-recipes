@@ -42,6 +42,7 @@
   * [Zucchini Slice](main/zucchini-slice.md)
 * [Desserts](desserts/README.md)
   * [Apple Strudel](desserts/apple-strudel.md)
+  * [Banana Pancakes](desserts/banana-pancakes.md)
   * [Blueberry Muffins](desserts/blueberry-muffins.md)
   * [Cheescake](desserts/cheesecake.md)
   * [Cherry and Almond biscuits](desserts/cherry-almond-buscuits.md)
