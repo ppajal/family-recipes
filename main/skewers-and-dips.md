@@ -2,7 +2,7 @@
 
 This banquet style is easy and great to feed the masses. Inspired by Ben's culinary skills
 
-![](../.gitbook/assets/image.png)
+![](../.gitbook/assets/skewers-dip.png)
 
 ## Meat Skewers Ingredients
 
