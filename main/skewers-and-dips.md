@@ -1,20 +1,22 @@
-# Meat Skewers and Various Dips
+# Skewers and Dips
 
 This banquet style is easy and great to feed the masses. Inspired by Ben's culinary skills
 
-![Skewers and Dips](../.gitbook/assets/skewers-and-dips.jpg)
+![](../.gitbook/assets/image.png)
 
 ## Meat Skewers Ingredients
+
 * 1kg beaf cuts \(I used scotch fillets but any nice beaf cut works\)
 * 1 zuchinni
 * 1/2 red capsicum, 1/2 green capsicum
 * mushrooms
 * skewers
 
-## Dip Roasted Carrot Ingredients (, Roast Carrot, Hummus)
+## Dip Roasted Carrot Ingredients \(, Roast Carrot, Hummus\)
+
 * 6 carrots
 * 1/4 cup tahini 
-* 1 lemon (juice)
+* 1 lemon \(juice\)
 * 3 cloves garlic
 * 1 teaspoon ground cumin
 * 1 tablespoon olive oil
@@ -22,6 +24,7 @@ This banquet style is easy and great to feed the masses. Inspired by Ben's culin
 * pita bread
 
 ## Dip Egyption beetroot Ingredients
+
 * 1/2 small can beetroot
 * 1 cup natural yogurt
 * 1/2 lemon
@@ -31,6 +34,7 @@ This banquet style is easy and great to feed the masses. Inspired by Ben's culin
 * 1/2 teaspoon paprika
 
 ## Dip Hummus Ingredients
+
 * 1 can chickpeas
 * 1/4 cup tahini 
 * 1/2 lemon
