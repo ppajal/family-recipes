@@ -27,6 +27,7 @@
   * [Lasagna](main/lasagna.md)
   * [Naan Bread](main/naan-bread.md)
   * [Nasi Goreng](main/nasi-goreng.md)
+  * [Pad Thai](main/pad-thai.md)
   * [Risotto](main/risotto.md)
   * [Rogan Josh \(Lamb\)](main/rogan-josh.md)
   * [Sarma](main/sarma.md)
