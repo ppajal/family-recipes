@@ -15,6 +15,7 @@
   * [Cevapcici](main/cevapcici.md)
   * [Chickpea Dahl Curry](main/chickpea-dahl-curry.md)
   * [Curried Sausages](main/curried-sausages.md)
+  * [Curry Puffs](main/curry-puffs.md)
   * [Dahl](main/dahl.md)
   * [Fettuccine Carbonara](main/carbonara.md)
   * [Fish Curry \(Cambodian\)](main/fish-curry-cambodian.md)

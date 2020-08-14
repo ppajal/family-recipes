@@ -2,7 +2,7 @@
 
 These healthy banana pancakes are easy and great way to start the day. Traditionally served mixed berries or whatever else you like.
 
-![banana pancakes](../.gitbook/assets/pancake.jpg)
+![banana pancakes](../.gitbook/assets/banana-pancake.jpg)
 
 ## Ingredients
 
