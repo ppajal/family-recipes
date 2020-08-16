@@ -19,7 +19,7 @@ Everyone enjoys Pad Thai at a restaraunt, so lets make it at home.
 
 * 3 tbsp fish sauce
 * 3 tbsp brown sugar \(or palm sugar is ok\)
-* 3 tbsp Tamarind puree \(can buy is a small jar or rice wine vinegar is ok\)
+* 3 tbsp Tamarind puree \(can buy in a small jar or rice wine vinegar is ok\)
 * 1 teaspoon soy sauce
 * garnish with fresh bean sprouts, lime wedges, roasted peanuts
 
