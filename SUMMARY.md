@@ -41,6 +41,7 @@
   * [Spring Rolls Vietnamese](main/spring-rolls.md)
   * [Spinach & feta filo](main/spinach-cheese-filo.md)
   * [Varivo \(stew\)](main/varivo.md)
+  * [Vietnamese Noodles Stir Fry](main/Vietnamese-Noodle-Stir-Fry.md)
   * [Zucchini Slice](main/zucchini-slice.md)
 * [Desserts](desserts/README.md)
   * [Apple Strudel](desserts/apple-strudel.md)
