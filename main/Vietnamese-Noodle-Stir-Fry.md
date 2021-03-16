@@ -1,8 +1,9 @@
 # Vietnamese Noodle Stir Fry
 
-These are Tam and Luans amazingly delicious Vietnmese Noodles stir fry. 
+These are Tam and Luan's amazingly delicious Vietnmese Noodles stir fry. 
 
 ![Vietnmese Noodles](../.gitbook/assets/Vietnamese-Noodles-Stir-Fry.jpg)
+![Fresh Egg Noodles](../.gitbook/assets/Vietnamese-Noodles-Stir-Fry-packet.jpg)
 
 ## Ingredients
 
