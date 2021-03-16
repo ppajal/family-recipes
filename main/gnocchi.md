@@ -1,4 +1,5 @@
 # Gnocchi
+![Gnocchi](../.gitbook/assets/gnocchi.jpg)
 
 ## Ingredients
 

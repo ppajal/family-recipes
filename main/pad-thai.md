@@ -2,7 +2,7 @@
 
 Everyone enjoys Pad Thai at a restaraunt, so lets make it at home.
 
-![Pad Thai](../.gitbook/assets/fish-curry.jpg)
+![Pad Thai](../.gitbook/assets/padthai.jpg)
 
 ## Ingredients
 
