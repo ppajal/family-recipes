@@ -15,7 +15,8 @@ These are Nannas really yummy cherry and almond biscuits. Great at Xmas time.
 
 ## Cooking instruction
 
-1. Beat 3 egg whites until stiff.  Egg white stif peak tip: take eggs out of fridge early and add a 1/2 teaspoon of cream of tartar before beating at medium speed.
+1. Beat 3 egg whites until stiff.  
+   Egg white stif peak tip: take eggs out of fridge early and add a 1/2 teaspoon of cream of tartar before beating at medium speed.
 2. Gradually fold 1/3 cup caster sugar.
 3. Gently stir in 2/3 cup plain flour.
 4. Stir in 125g almonds and 125g glazed cherries.
