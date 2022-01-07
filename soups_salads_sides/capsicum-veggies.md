@@ -8,12 +8,15 @@ This is a really good as a side dish with almost anything and is even better col
 
 * 4 zucchinis
 * 1 green & red capsicum
+* 1 yellow pepper
 * 5 tomatoes  \(juicy\)
 * Pepper steak seasoning
+* 1 brown onion
+* Mexican Chilli Powder
 
 ## Cooking instruction
 
-1. Peel & slice zucchini lengthwise in thin slices \(the thinner the better\), place in a bowl & sprinkle table salt.  Let it sit for 20 minutes.
+1. Slice zucchini lengthwise in thin slices \(the thinner the better\), place in a bowl & sprinkle table salt.  Let it sit for 20 minutes.
 2. Brown chopped onion & garlic in a medium/large saucepan.
 3. Add sliced capsicum & yellow pepper
 4. Slice tomatoes and add to saucepan.
